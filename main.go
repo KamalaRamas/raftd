@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/goraft/raft"
-	"github.com/goraft/raftd/command"
-	"github.com/goraft/raftd/server"
+	"github.com/KamalaRamas/raft"
+	"github.com/KamalaRamas/raftd/command"
+	"github.com/KamalaRamas/raftd/server"
 	"log"
 	"math/rand"
 	"os"
